@@ -27,3 +27,21 @@ code:
 script:
 - 'Script de exploración/*'
 - 'Script de exploración/**/*'
+
+#######################################
+
+documentation:
+- 'Documents/*'
+- 'Documents/**/*'
+
+backend:
+- 'Server/*'
+- 'Server/**/*'
+
+frontend:
+- 'Client/*'
+- 'Client/**/*'
+
+database:
+- 'Data/*'
+- 'Data/**/*'
