@@ -37,3 +37,20 @@ source:
 frontend:
 - any: ['src/**/*.js']
   all: ['!src/main.js']
+#######################################
+
+documentation:
+- 'Documents/*'
+- 'Documents/**/*'
+
+backend:
+- 'Server/*'
+- 'Server/**/*'
+
+frontend:
+- 'Client/*'
+- 'Client/**/*'
+
+database:
+- 'Data/*'
+- 'Data/**/*'
